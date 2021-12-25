@@ -2,7 +2,7 @@
 
 This is project allows a user to parse THEIR OWN twitter profile posts to and do simple  and date analysis to see what posting times yield the best engagement.
 
-**DISCLAIMER! - I am not responsible in any way for what you do with these scripts, especially parsing Twitter. I am not responsible if you get blocked or banned by Twitter. **
+**DISCLAIMER! - I am not responsible in any way for what you do with these scripts, especially parsing Twitter. I am not responsible if you get blocked or banned by Twitter.**
 
 ### What you need for it to work
 
